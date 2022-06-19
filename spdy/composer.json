@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nickstarlight/spdy": "0.0.1-rc1"
+    }
+}

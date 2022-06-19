@@ -1,0 +1,9 @@
+version: "2.7"
+
+server:
+  command: "php main.php"
+
+http:
+  address: 0.0.0.0:80
+  pool:
+    num_workers: 1
