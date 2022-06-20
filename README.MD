@@ -25,13 +25,13 @@ The goal is to provide reproducible scenarios to compare them against [Spdy](htt
 Those are the round 1 results, as from 19-07-2022.
 
 ### Technical specification
-| Provider | Digital Ocean                                           |   |
-|----------|---------------------------------------------------------|---|
-| Product  | CPU Optimized Droplet                                   |   |
-| Image    | Docker Version 19.03.12OS Ubuntu 20.04 by Digital Ocean |   |
-| RAM      | 8GB                                                     |   |
-| CPU      | 4 Dedicated CPUs                                        |   |
-| Region   | New York 1                                              |   |
+| Provider | Digital Ocean                                           |
+|----------|---------------------------------------------------------|
+| Product  | CPU Optimized Droplet                                   |
+| Image    | Docker Version 19.03.12OS Ubuntu 20.04 by Digital Ocean |
+| RAM      | 8GB                                                     |
+| CPU      | 4 Dedicated CPUs                                        |
+| Region   | New York 1                                              |
 
 
 ### Results
